@@ -149,10 +149,11 @@
 # Feet
 
 **Parts needed:**
-* 4 M5x10 BHCS
+* 4 M3x10 BHCS
 * 4 Rubber feet
 * 8 M2x6 BHCS
-
+* 4 M3 heatsets
+  
 **Printed parts:**
 * 4 base_plate
 
@@ -162,8 +163,10 @@
 
 ![](images/foot_accent.png)
 
-2. Using a M5x10 BHCS, attach a rubber foot to the printer 
+2. Insert a M3 Heatset into the center of the leg.
+
+3. Using a M3x10 BHCS, attach a rubber foot to the printer 
    
 ![](images/rubber_foot.png)
 
-3. Repeat for the other 3 feet
+4. Repeat for the other 3 feet
